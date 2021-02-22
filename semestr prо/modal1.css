@@ -1,0 +1,776 @@
+.modal-overlay{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay2{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay3{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay4{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay5{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay6{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay7{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay8{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay9{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay10{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay11{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay12{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay13{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay14{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay15{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay16{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay17{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay18{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay19{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+.modal-overlay20{
+	position:fixed;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+	display:none;
+}
+
+.modal1{
+	background-image: url("img/map_monum.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal2{
+	background-image: url("img/map_dram.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal3{
+	background-image: url("img/map_izhik.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal4{
+	background-image: url("img/map_museum_k.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal5{
+	background-image: url("img/map_svyat.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal6{
+	background-image: url("img/map_letsad.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal7{
+	background-image: url("img/map_izhmash.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal8{
+	background-image: url("img/map_crocod.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal9{
+	background-image: url("img/map_naber.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal10{
+	background-image: url("img/map_zoo.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal11{
+	background-image: url("img/map_park_kir.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal12{
+	background-image: url("img/map_kosm.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal13{
+	background-image: url("img/map_izh_museum.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal14{
+	background-image: url("img/map_ludor.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal15{
+	background-image: url("img/map_lazer.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal16{
+	background-image: url("img/map_haski.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal17{
+	background-image: url("img/map_cirk.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal18{
+	background-image: url("img/map_planet.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal19{
+	background-image: url("img/map_gerda.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+.modal20{
+	background-image: url("img/map_izo.png");
+	position:fixed;
+	margin: 0 ;
+	top:10%;
+	left:30%;
+	width:800px;
+	height:750px;
+	background-color:yellow;
+	transform: translate (-50%,-50%);
+	//display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-radius:10px;
+}
+
+.active{
+	display:block;
+}
+.active2{
+	display:block;
+}
+.active3{
+	display:block;
+}
+.active4{
+	display:block;
+}
+.active5{
+	display:block;
+}
+.active6{
+	display:block;
+}
+.active7{
+	display:block;
+}
+.active8{
+	display:block;
+}
+.active9{
+	display:block;
+}
+.active10{
+	display:block;
+}
+.active11{
+	display:block;
+}
+.active12{
+	display:block;
+}
+.active13{
+	display:block;
+}
+.active14{
+	display:block;
+}
+.active15{
+	display:block;
+}
+.active16{
+	display:block;
+}
+.active17{
+	display:block;
+}
+.active18{
+	display:block;
+}
+.active19{
+	display:block;
+}
+.active20{
+	display:block;
+}
+
+.text_map{
+font-family: 'OpenSans';
+font-size: 26px;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.75;
+letter-spacing: 0.8px;
+text-align: center;
+width:800px;
+}
+
+.close-modal-button{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button2{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button3{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button4{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button5{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button6{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button7{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button8{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button9{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button10{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button11{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button12{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button13{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button14{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button15{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button16{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button17{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button18{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button19{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+.close-modal-button20{
+	border-radius:50px;
+	border-color:transparent;
+	position:absolute;
+	top:0;
+	right:0;
+	width:26px;
+	height:26px;
+	transform:translate(50%, -50%);
+	background-color:#19bd9a;
+	color:white;
+}
+
+
